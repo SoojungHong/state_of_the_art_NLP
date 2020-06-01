@@ -1,7 +1,7 @@
-# ---------------------------------------------------------------------------
-# The model is based on following reference and input & output 
+# -----------------------------------------------------------------------------------------------
+# The model is based on following reference and input & output data format for my own problem
 # reference : https://d2l.ai/chapter_attention-mechanisms/transformer.html
-# ---------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------
 
 import d2l  # D2L AI library
 import math
